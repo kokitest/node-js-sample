@@ -1,10 +1,10 @@
 language: node_js
 node_js:
-- '0.12.2'
+- '0.12.1'
 deploy:
   provider: heroku
   api_key:
     secure: EhtPFVGYAyHS/OBvbpt8kMM27nLWiEMRIJ9Sau9vKJsRNFxugixsOG3UqwxD3r390qrpnBGMeOzaYbtoghBXtmtify+UmOPuzCq83UraXGJq6jaCtyGqaTxy/koZUBMzxoCpPacFsfuCmALMmeYNBzJ/gDrv6xo5Om1uVgDLxmblEu93i8a2U/3IK0oLAMrEpivVeBcEBgBSsEBVpHl2g58tZ6VjUNvjTgElkLQvKO30H2f0Pst72fYIN593NIR9XzAAstzGpTxZOCrHQmaRXddHyb0JBGp0hdv5u1wuklPQ103mP5XjSq5UBK3Zw+IT9z4wc9a95jNSz5ZqdY9EophsyOgyuIn0KxBEoLxXdiNwp6eWdn6j+swrVRbKtF49tLtxrskOiAfEdKX7l2fzndZthu7F2tB01h3JziwqUJR7zDgLOVJaKatgYkoaqk+oZt3UnP1NusXAWmzEtL502uyUZrgx4I5N5EWCVRPF8yS0uMmklkp9REnM4/9S8fIjvIykKey3BPVpuuUjYMGXQfZcE0XJVb+8uGQURQ8t8ilk9Cw3OSQbeuuJ67TFfJhmGQUNrQovQJm0K+0Wp9YkDG0uk2WhotK7WxDirtaT7joYXIjSz/FR8nAKHWdyT8iTqh0JlnN2vmR00l0z+r2uMGoum7WPDyO1erqPQLoF/f8=
-  app: mightly-taiga-1722
+  app: mighty-taiga-1722
   on:
     repo: kokitest/node-js-sample
